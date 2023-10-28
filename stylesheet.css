@@ -1,0 +1,44 @@
+header{
+    background-color: #6062ee;
+    width: 80%;
+    height: 200px;
+    
+}
+
+footer{
+    background-color: rgb(202, 28, 28);
+    width: 80%;
+    height: 200px;
+}
+#cel11{
+    background-color: #6A945C;
+}
+#cel21{
+    background-color: #1D4A0E;
+    color: aliceblue;
+}
+#cel31{
+    background-color: #609E4C;
+}
+#cel41{
+    background-color: #8FB582;
+}
+
+#cel13{
+    background-color: #EC17FF;
+}
+#cel23{
+    background-color: #720b69;
+    color: aliceblue;
+}
+#cel33{
+    background-color: #8F4288;
+}
+#cel43{
+    background-color: #381435;
+    color: aliceblue;
+}
+table{
+    border: yellow;
+}
+
